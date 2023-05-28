@@ -16,8 +16,8 @@ $$O(n)$$
 ##### Full code with test data <a href="/RemoveDuplicates.java"> Here</a>
 
 # Code
-```
-java
+
+```java
 class Solution {
     public int removeDuplicates(int[] nums) {
         int index =0;
