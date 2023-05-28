@@ -13,8 +13,11 @@ $$O(n)$$
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 $$O(n)$$
 
+##### Full code with test data <a href="/RemoveDuplicates.java"> Here</a>
+
 # Code
 ```
+java
 class Solution {
     public int removeDuplicates(int[] nums) {
         int index =0;
